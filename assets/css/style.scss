@@ -1,0 +1,25 @@
+// Default variables.
+@import "default-variables";
+
+// Bootstrap Framework.
+@import "bootstrap";
+
+// Globals.
+@import "globals/overrides";
+@import "globals/fonts";
+@import "globals/type";
+@import "globals/layout";
+@import "globals/header";
+@import "globals/footer";
+@import "globals/buttons";
+@import "globals/forms";
+
+// Partials.
+@import "partials/pages";
+@import "partials/menus";
+@import "partials/search";
+@import "partials/fields";
+@import "partials/cards";
+@import "partials/banners";
+@import "partials/carousel";
+@import "partials/modal";

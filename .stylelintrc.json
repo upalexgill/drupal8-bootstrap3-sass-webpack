@@ -1,0 +1,12 @@
+{
+  "extends": "./../../core/.stylelintrc.json",
+  "rules": {
+    "plugin/no-browser-hacks": null
+  },
+  "ignoreFiles": [
+    "./assets/css/bootstrap/**/*.scss",
+    "./assets/css/_bootstrap-compass.scss",
+    "./assets/css/_bootstrap-mincer.scss",
+    "./assets/css/_bootstrap-sprockets.scss"
+  ]
+}

@@ -1,0 +1,21 @@
+framework:
+  css:
+    theme:
+      build/bundle.css: {}
+  js:
+      build/bundle.js: {}
+
+# Uncomment for SASS source JavaScript files.
+#  js:
+#    bootstrap/assets/js/bootstrap/affix.js: {}
+#    bootstrap/assets/js/bootstrap/alert.js: {}
+#    bootstrap/assets/js/bootstrap/button.js: {}
+#    bootstrap/assets/js/bootstrap/carousel.js: {}
+#    bootstrap/assets/js/bootstrap/collapse.js: {}
+#    bootstrap/assets/js/bootstrap/dropdown.js: {}
+#    bootstrap/assets/js/bootstrap/modal.js: {}
+#    bootstrap/assets/js/bootstrap/tooltip.js: {}
+#    bootstrap/assets/js/bootstrap/popover.js: {}
+#    bootstrap/assets/js/bootstrap/scrollspy.js: {}
+#    bootstrap/assets/js/bootstrap/tab.js: {}
+#    bootstrap/assets/js/bootstrap/transition.js: {}
